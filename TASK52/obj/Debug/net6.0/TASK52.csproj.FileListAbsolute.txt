@@ -1,0 +1,15 @@
+C:\Users\Казак\Documents\Гигбрейнс\ДЗ\DZSEM7160722\TASK52\bin\Debug\net6.0\TASK52.exe
+C:\Users\Казак\Documents\Гигбрейнс\ДЗ\DZSEM7160722\TASK52\bin\Debug\net6.0\TASK52.deps.json
+C:\Users\Казак\Documents\Гигбрейнс\ДЗ\DZSEM7160722\TASK52\bin\Debug\net6.0\TASK52.runtimeconfig.json
+C:\Users\Казак\Documents\Гигбрейнс\ДЗ\DZSEM7160722\TASK52\bin\Debug\net6.0\TASK52.dll
+C:\Users\Казак\Documents\Гигбрейнс\ДЗ\DZSEM7160722\TASK52\bin\Debug\net6.0\TASK52.pdb
+C:\Users\Казак\Documents\Гигбрейнс\ДЗ\DZSEM7160722\TASK52\obj\Debug\net6.0\TASK52.csproj.AssemblyReference.cache
+C:\Users\Казак\Documents\Гигбрейнс\ДЗ\DZSEM7160722\TASK52\obj\Debug\net6.0\TASK52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Казак\Documents\Гигбрейнс\ДЗ\DZSEM7160722\TASK52\obj\Debug\net6.0\TASK52.AssemblyInfoInputs.cache
+C:\Users\Казак\Documents\Гигбрейнс\ДЗ\DZSEM7160722\TASK52\obj\Debug\net6.0\TASK52.AssemblyInfo.cs
+C:\Users\Казак\Documents\Гигбрейнс\ДЗ\DZSEM7160722\TASK52\obj\Debug\net6.0\TASK52.csproj.CoreCompileInputs.cache
+C:\Users\Казак\Documents\Гигбрейнс\ДЗ\DZSEM7160722\TASK52\obj\Debug\net6.0\TASK52.dll
+C:\Users\Казак\Documents\Гигбрейнс\ДЗ\DZSEM7160722\TASK52\obj\Debug\net6.0\refint\TASK52.dll
+C:\Users\Казак\Documents\Гигбрейнс\ДЗ\DZSEM7160722\TASK52\obj\Debug\net6.0\TASK52.pdb
+C:\Users\Казак\Documents\Гигбрейнс\ДЗ\DZSEM7160722\TASK52\obj\Debug\net6.0\TASK52.genruntimeconfig.cache
+C:\Users\Казак\Documents\Гигбрейнс\ДЗ\DZSEM7160722\TASK52\obj\Debug\net6.0\ref\TASK52.dll
